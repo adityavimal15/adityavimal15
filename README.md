@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SwiftAid+<br>🤝 I’m looking for help with UI/UX<br>🌱 I’m currently learning Express.js<br>⚡ I like Video Editing
+🔭 I’m currently working on SwiftAid+<br>🤝 I’m looking for help with UI/UX<br>🌱 I’m currently learning Node.js<br>⚡ I like Video Editing
 
 
 ## 🌐 Socials:
